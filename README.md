@@ -1,4 +1,4 @@
-# Portfolio Simples
+# Portfólio Simples
 
 Portfólio pessoal desenvolvido para apresentar meus projetos e demonstrar minhas habilidades em Front-End Development e UI/UX Design.
 
